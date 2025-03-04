@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  
+![Banner](assets/kiki.jpeg)
 
-<!--
-**asthatripathi17/asthatripathi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_"You cannot alter your fate. However, you can rise to meet it."_
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌿 Welcome to My Little Corner of the Internet
+
+Hi, I'm **Astha** — a software engineer who believes in writing clean code, slow living, and finding beauty in small things.
+
+🌿🌸🌙
+
+### ✨ What I'm Up To
+🌱 Currently learning: **System Design, DSA, Web Development**<br>
+🔍 Exploring: **Cloud, IoT, ML, Edge Computing, Ethical Tech**<br>
+✍️ Writing about: Tech, Life, and Curiosities<br>
+
+───── 🌿─────
+
+![ghibli-vibes](assets/totoro_3.jpeg)
+### 💡 Things I Believe In
+Small consistent steps build great things<br>
+Slow, mindful living makes better engineers<br>
+Every project should leave the world a little better than before<br>
+
+───── 🌿─────
+
+![ghibli-vibes](assets/spirited.jpeg)
+### 🎨 Hobbies & Passion Projects
+📚 Reading cozy fantasy books<br>
+🎨 Digital art + DIY crafts<br>
+🍞 Baking bread (especially banana bread!)<br>
+🐾 Learning about dogs<br>
+🌱 Gardening and watching little green things grow<br>
+✏️ Sketching moments and ideas<br>
+🍳 Cooking new recipes and experimenting in the kitchen<br>
+
+
+───── 🌿─────
+
+_To know more about me, reach me out on [LinkedIn](https://www.linkedin.com/in/phoenix333/) 🍃_
+
+🌿🌸🌙
+<div align="center">
