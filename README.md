@@ -21,9 +21,9 @@ Hi, I'm **Astha** — a software engineer who believes in writing clean code, sl
 
 ![ghibli-vibes](assets/totoro_3.jpeg)
 ### 💡 Things I Believe In
-Small consistent steps build great things<br>
-Slow, mindful living makes better engineers<br>
-Every project should leave the world a little better than before<br>
+✨ Small consistent steps build great things<br>
+✨ Slow, mindful living makes better engineers<br>
+✨ Every project should leave the world a little better than before<br>
 
 ───── 🌿─────
 
