@@ -39,6 +39,8 @@ Every project should leave the world a little better than before<br>
 
 ───── 🌿─────
 
+<img src="assets/train.gif" width="1600" height="300">
+
 _To know more about me, reach me out on [LinkedIn](https://www.linkedin.com/in/phoenix333/) 🍃_
 
 🌿🌸🌙
