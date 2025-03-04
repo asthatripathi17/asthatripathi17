@@ -4,6 +4,7 @@
 
 _"You cannot alter your fate. However, you can rise to meet it."_
 
+───── 🌿─────
 
 ### 🌿 Welcome to My Little Corner of the Internet
 
